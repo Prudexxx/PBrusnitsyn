@@ -139,3 +139,13 @@ button.tablinks.active{
 img{
   width: 100%;
 }
+
+.dashBort{
+  display: flex;
+  justify-content: space-between;
+}
+
+.butt{
+  font-size: 15px;
+  padding: 15px;
+}
